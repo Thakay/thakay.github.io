@@ -403,11 +403,10 @@
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 479px) {
-	body {
-		overflow-x: hidden;
-	}
+	
 	.visible-xxs {
 		display: block;
+		padding-top: 10px;
 	}
 
 	/* HERO
