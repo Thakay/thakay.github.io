@@ -403,6 +403,9 @@
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 479px) {
+	body {
+		overflow-x: hidden;
+	}
 	.visible-xxs {
 		display: block;
 	}
@@ -445,6 +448,7 @@
 	/* FOOTER
 	================================================== */
 	.site-footer .row {
+		
 		display:flex;
 		flex-direction: column-reverse;	
 	}
