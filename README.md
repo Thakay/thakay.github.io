@@ -1,4 +1,4 @@
 # Kasra Aminiyeganeh Portfolio
 
 
-Accessible at: [thekay.net](https://thekay.net)
+Accessible at: [www.thekay.net](https://www.thekay.net)
