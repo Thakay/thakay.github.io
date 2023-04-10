@@ -6970,6 +6970,26 @@ a.close.disabled {
   background-color: #1b1e21 !important;
 }
 
+.bg-skill1 {
+  background-color: #00fac9;
+}
+
+.bg-skill2 {
+  background-color: #ff6788;
+}
+.bg-skill3 {
+  background-color: #aae9a2;
+}
+.bg-skill4 {
+  background-color: #ffba59;
+}
+.bg-skill5 {
+  background-color: #005398;
+}
+.bg-skill6 {
+  background-color: #a952e9;
+}
+
 a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
